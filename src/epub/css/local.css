@@ -14,3 +14,11 @@ span[epub|type~="subtitle"]{
 	text-align: center;
 }
 
+footer{
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+	font-weight: normal;
+}
