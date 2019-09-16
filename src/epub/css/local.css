@@ -7,8 +7,8 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+[epub|type~="z3998:letter"] header,
 [epub|type~="dedication"] p{
-	display: block;
 	font-variant: small-caps;
 	font-weight: normal;
 	text-align: center;
