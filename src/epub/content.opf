@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-buchan/mr-standfast</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-09-18T21:53:08Z</dc:date>
+		<meta property="dcterms:modified">2019-09-18T21:53:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,20 +47,19 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:collection">Richard Hannay</meta>
-		<dc:description id="description">An army general chases a network of German spies through Scotland, the Swiss Alps and the First World War’s Western Front.</dc:description>
+		<dc:description id="description">An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1919, &lt;i&gt;Mr Standfast&lt;/i&gt; is the third of John Buchan’s books to feature Richard Hannay and is a thriller set in the latter half of the First World War.&lt;/p&gt;
-			&lt;p&gt;Richard Hannay is called back from serving in France to take part in a secret mission, searching for German agent. Hannay disguises himself as a pacifist and travels through England and Scotland to track down the spy at the centre of a web of German agents who are leaking information about the war plans. He hopes to infiltrate and feed misinformation back to Germany. His journey takes him from Glasgow to Skye and onwards into the Swiss Alps and on to the Western Front.&lt;/p&gt;
-			&lt;p&gt;During the course of his work he is again reunited with Peter Pienaar and John Blenkiron who both appear in &lt;a href="https://standardebooks.org/ebooks/john-buchan/greenmantle"&gt;&lt;i&gt;Greenmantle&lt;/i&gt;&lt;/a&gt; as well as Sir Walter Bullivant, his Foreign Office contact from &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty Nine Steps&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;Published in 1919, &lt;i&gt;Mr Standfast&lt;/i&gt; is a thriller set in the latter half of the First World War, and the third of John Buchan’s books to feature Richard Hannay.&lt;/p&gt;
+			&lt;p&gt;Richard Hannay is called back from serving in France to take part in a secret mission: searching for a German agent. Hannay disguises himself as a pacifist and travels through England and Scotland to track down the spy at the center of a web of German agents who are leaking information about the war plans. He hopes to infiltrate and feed misinformation back to Germany. His journey takes him from Glasgow to Skye, onwards into the Swiss Alps, and on to the Western Front.&lt;/p&gt;
+			&lt;p&gt;During the course of his work he’s again reunited with Peter Pienaar and John Blenkiron, who both appear in &lt;a href="https://standardebooks.org/ebooks/john-buchan/greenmantle"&gt;&lt;i&gt;Greenmantle&lt;/i&gt;&lt;/a&gt;, as well as Sir Walter Bullivant, his Foreign Office contact from &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty Nine Steps&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;The title of the novel comes from a character in John Bunyan’s &lt;i&gt;Pilgrim’s Progress&lt;/i&gt; to which there are many references in the book, not least of all as a codebook which Hannay uses to decipher messages from his allies.&lt;/p&gt;
-			&lt;p&gt;The book finishes with a captivating description of some of the final battles of the First World War between Britain and Germany in Eastern France.&lt;/p&gt;		
+			&lt;p&gt;The book finishes with a captivating description of some of the final battles of the First World War between Britain and Germany in Eastern France.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/560</dc:source>
 		<dc:source>https://archive.org/details/mrstandfast00buchgoog</dc:source>
-		<meta property="se:production-notes">The mixture of colloquial English and the use of British2American means that there were a lot of apostrophes to correct.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">131058</meta>
+		<meta property="se:reading-ease.flesch">80.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mr._Standfast</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-buchan_mr-standfast</meta>
 		<dc:creator id="author">John Buchan</dc:creator>
@@ -89,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
