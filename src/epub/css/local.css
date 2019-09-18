@@ -15,10 +15,10 @@ span[epub|type~="subtitle"]{
 }
 
 footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
 .signature{
 	font-variant: small-caps;
-	font-weight: normal;
 }
