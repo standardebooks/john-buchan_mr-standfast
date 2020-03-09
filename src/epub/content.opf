@@ -58,7 +58,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/560</dc:source>
 		<dc:source>https://archive.org/details/mrstandfast00buchgoog</dc:source>
-		<meta property="se:word-count">131058</meta>
+		<meta property="se:word-count">131063</meta>
 		<meta property="se:reading-ease.flesch">80.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mr._Standfast</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-buchan_mr-standfast</meta>
