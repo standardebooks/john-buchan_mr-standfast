@@ -46,7 +46,8 @@
 		<meta property="term" refines="#subject-5">sh2008104773</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta property="se:collection">Richard Hannay</meta>
+		<meta property="belongs-to-collection" id="collection-1">Richard Hannay</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Published in 1919, &lt;i&gt;Mr. Standfast&lt;/i&gt; is a thriller set in the latter half of the First World War, and the third of John Buchan’s books to feature Richard Hannay.&lt;/p&gt;
