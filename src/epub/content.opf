@@ -73,7 +73,7 @@
 		<dc:contributor id="artist">Alexandre Calame</dc:contributor>
 		<meta property="file-as" refines="#artist">Calame, Alexandre</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alexandre_Calame</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n88617561</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88617561</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jo Churcher</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Churcher, Jo</meta>
