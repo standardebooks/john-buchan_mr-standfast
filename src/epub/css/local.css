@@ -1,7 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:letter"] header,
 [epub|type~="dedication"] p{
 	font-variant: small-caps;
 	font-weight: normal;
@@ -34,4 +33,12 @@ footer{
 
 [epub|type~="preface"]{
 	margin-top: 20vh;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: center;
+}
+
+.telegram{
+	font-variant: all-small-caps;
 }
