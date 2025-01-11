@@ -36,7 +36,7 @@ footer{
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: center;
+	text-align: right;
 }
 
 .telegram{
