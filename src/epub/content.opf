@@ -61,7 +61,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/560</dc:source>
 		<dc:source>https://archive.org/details/mrstandfast00buchgoog</dc:source>
-		<meta property="schema:wordCount">128467</meta>
+		<meta property="schema:wordCount">128466</meta>
 		<meta property="schema:educationalLevel">80.72</meta>
 		<link href="https://en.wikipedia.org/wiki/Mr._Standfast" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
